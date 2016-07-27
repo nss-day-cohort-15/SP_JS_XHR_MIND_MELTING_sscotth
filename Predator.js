@@ -1,1 +1,4 @@
-var Predator = (function () {}())
+var Predator = (function () {
+  var carnivores = []
+  var herbivores = []
+}())
